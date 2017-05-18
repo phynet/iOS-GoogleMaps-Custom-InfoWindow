@@ -1,4 +1,4 @@
-## Create customizable and interactible custom view (annotation in Apple Maps)
+## Create a interactive and customizable custom view (annotation in Apple Maps)
 
 ![process](https://cloud.githubusercontent.com/assets/724536/26211835/c3a6146e-3bf3-11e7-853d-08ed197119c5.gif)
 
