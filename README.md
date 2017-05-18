@@ -37,6 +37,7 @@
 
   `LoadNiB's function just instanciate the custom UIView NIB`
   
+
 8.- Instanciate a new variable of type *GMSMarker*
 
 ```swift
